@@ -1,0 +1,16 @@
+p
+{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#img
+{
+    border-image-outset: 5%;
+    justify-items: center;
+    border-left: 6%;
+    border-right: 6%;
+    height: 350px;
+    width: 700px;
+    padding: 2%;
+}
